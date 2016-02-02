@@ -1,9 +1,9 @@
 # Site settings
 title: Lend-A-Hand
 email: hello@coderocket.me
-description: > OpenSource Job Board written in
-Ruby on Rails to help finding Open Source projects
-which needs a helping hand or two...
+description: >
+  Ruby on Rails to help finding Open Source projects
+  which needs a helping hand or two...
 url: http://dominicrico.github.io
 baseurl: /lend-a-hand
 twitter_username: coderocket_
